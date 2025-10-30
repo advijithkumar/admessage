@@ -1,0 +1,42 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+.buildlog/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Build
+build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+*.lock
+*.log
+
+# Android
+.gradle/
+local.properties
+android/.gradle/
+android/key.properties
+android/app/release/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# Google services
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Releases
+release/
+*.apk
+*.aab
+*.ipa
+
+# System
+.DS_Store
+Thumbs.db
